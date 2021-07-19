@@ -1,7 +1,7 @@
 # eth
 This project implements a caching proxy for eth_getBlockByNumber. 
 The project is implemented as a Flask app that exposes an endpoint /block/<id> where id is the id of the block whose details we want to fetch from Cloudfare
-Instructions for running the code (The project was tested in Python 3.8 but should work in any Python version from 3.5
+Instructions for running the code (The project was tested in Python 3.8 but should work in any Python version from 3.5)
   1. Clone the repo
   2. Run pip install -r requirements.txt
   3. cd /app
